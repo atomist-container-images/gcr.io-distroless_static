@@ -1,2 +1,2 @@
-# Tags: latest-s390x
+# Tags:  latest-s390x
 FROM gcr.io/distroless/static:latest-s390x

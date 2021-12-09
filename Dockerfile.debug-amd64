@@ -1,2 +1,2 @@
-# Tags: debug-amd64
+# Tags:  debug-amd64
 FROM gcr.io/distroless/static:debug-amd64

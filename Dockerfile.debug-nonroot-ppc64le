@@ -1,2 +1,2 @@
-# Tags: debug-nonroot-ppc64le
+# Tags:  debug-nonroot-ppc64le
 FROM gcr.io/distroless/static:debug-nonroot-ppc64le
