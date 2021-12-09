@@ -1,0 +1,6 @@
+# Tags: 3c29f81d9601750a95140e4297a06765c41ad10e, 5eb0f8a01ed8046cefc3a7ca9cf5b95bad296dcf, 96fa99b145dc5ef3934daa784e0d82cf37a263b6, 9ec652b165c5e2a8b69dc7db26f2d949527d494c, acf95cef37c3da0221eb9ad2313557ed7b5c34df
+FROM gcr.io/distroless/static:3c29f81d9601750a95140e4297a06765c41ad10e
+FROM gcr.io/distroless/static:5eb0f8a01ed8046cefc3a7ca9cf5b95bad296dcf
+FROM gcr.io/distroless/static:96fa99b145dc5ef3934daa784e0d82cf37a263b6
+FROM gcr.io/distroless/static:9ec652b165c5e2a8b69dc7db26f2d949527d494c
+FROM gcr.io/distroless/static:acf95cef37c3da0221eb9ad2313557ed7b5c34df

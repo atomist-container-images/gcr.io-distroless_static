@@ -1,0 +1,2 @@
+# Tags: debug-nonroot-s390x
+FROM gcr.io/distroless/static:debug-nonroot-s390x
